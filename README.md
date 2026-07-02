@@ -3,7 +3,7 @@ A data analysis project of Sales Data using Python, SQL and powerBI.
 
 # 📊 Regional Sales Analysis
 
-An end-to-end Data Analytics project focused on analyzing five years of U.S. regional sales data to uncover business trends, identify growth opportunities, and build an interactive Power BI dashboard for data-driven decision making. The project includes data cleaning, exploratory data analysis (EDA), feature engineering, and business recommendations. :contentReference[oaicite:0]{index=0}
+An end-to-end Data Analytics project focused on analyzing five years of U.S. regional sales data to uncover business trends, identify growth opportunities, and build an interactive Power BI dashboard for data-driven decision making. The project includes data cleaning, exploratory data analysis (EDA), feature engineering, and business recommendations. 
 
 ---
 
@@ -54,7 +54,7 @@ This project analyzes historical sales performance across products, customers, c
 - Analyzed sales performance across U.S. regions and states.
 - Compared sales channels based on revenue and profitability.
 - Identified high-value customers through revenue analysis.
-- Explored relationships between financial metrics using correlation analysis. :contentReference[oaicite:1]{index=1}
+- Explored relationships between financial metrics using correlation analysis.
 
 ---
 
@@ -77,7 +77,7 @@ The Power BI dashboard provides interactive visualizations for:
 - Invest more in high-performing products.
 - Improve marketing efforts in underperforming regions.
 - Focus on high-margin sales channels.
-- Strengthen relationships with top-value customers. :contentReference[oaicite:2]{index=2}
+- Strengthen relationships with top-value customers.
 
 ---
 
